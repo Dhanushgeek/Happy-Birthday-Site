@@ -130,3 +130,15 @@ h4 {
 .text-right {
     text-align: right;
 }
+
+.btn{
+    margin: 10% auto auto;
+}
+
+.btn1{
+    text-align: center;
+}
+
+#sec1{
+    text-align: center;
+}
