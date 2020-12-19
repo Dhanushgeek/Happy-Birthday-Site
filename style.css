@@ -9,6 +9,10 @@ body {
     padding: 0px;
 }
 
+p{
+    font-weight: bold;
+}
+
 ::selection {
     background: transparent;
 }
